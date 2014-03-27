@@ -12,10 +12,16 @@ GitHub于2008年上线，Github是一个从Ruby社区诞生出来的项目，可
 ![image](http://dl2.iteye.com/upload/attachment/0092/4595/7c78a7bd-b175-368f-b0bf-f25ac8b9073c.png)
 
 ##注册
+![image](homepage.png)
+##配置SSH Key  
+![image](configkey.png)
 
-###配置sshkey  
+创建sshkey
 
-`ssh-keygen -t rsa -C "your_email@example.com"`  
+     $ ssh-keygen -t rsa -C "your_email@example.com"   
+     $ pbcopy < ~/.ssh/id_rsa.pub
+     
+![image](addsshkey.png)
 
 ###fork  
 
