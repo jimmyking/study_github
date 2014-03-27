@@ -33,6 +33,9 @@ GitHub于2008年上线，Github是一个从Ruby社区诞生出来的项目，可
 备份该项目的副本作为你自己的项目
 ![image](forked.png)
 
+你可以在该项目中上任意修改，不会对原作者的项目造成任何的影响。
+![image](fork_commit.png)
+![image](fork_commit1.png)
       
 
 
