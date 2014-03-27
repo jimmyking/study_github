@@ -23,6 +23,10 @@ GitHub于2008年上线，Github是一个从Ruby社区诞生出来的项目，可
      
 ![image](addsshkey.png)
 
+##新建项目
+![image](new_repository.png)
+![image](created_repository.png)
+
 ###fork  
 
       
