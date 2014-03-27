@@ -36,6 +36,17 @@ GitHub于2008年上线，Github是一个从Ruby社区诞生出来的项目，可
 你可以在该项目中上任意修改，不会对原作者的项目造成任何的影响。
 ![image](fork_commit.png)
 ![image](fork_commit1.png)
+
+##Pull Requests
+如果想将你的修改合并到原项目中时，可以pull request，这样原项目的作者就可以将你修改的东西合并到原项目的主分支上去，这样你就为开源项目贡献了代码。
+![image](click_pull_request.png)
+![image](create_pull_request.png)
+一旦你创建了pull_request给原作者，原作者将会收到通知和邮件
+![image](pull_request_notification.png)
+![image](merge_pull_request.png)
+merge之后
+![image](merged_pull_request.png)
+这样你的代码就成功的被原作者接受
       
 
 
