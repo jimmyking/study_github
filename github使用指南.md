@@ -62,7 +62,7 @@ merge之后
 Issue跟我们的开发任务紧密相连，通常一个issue会指派给某位开发人员来解决。开发阶段issue会跟milestone进行关联。
 ![image](images/create_issue.png)
 ![image](images/created_issue.png)
-这里需要注意issue编号。由于每个issue的解决最终会归结到一个代码的commit，GitHub提供给我们了一个快捷的方式，让commit与issue关联起来，你只需要在commit的注释中出现“#xxx”(issue编号)，并且如果在提交说明中的问题编号前出现特定关键字，还可以关闭问题。支持的关键字有：
+这里需要注意issue编号。由于每个issue的解决最终会归结到一个代码的commit，GitHub提供给我们了一个快捷的方式，让commit与issue关联起来，你只需要在commit的注释中出现“#xxx”(issue编号)，并且如果在提交说明中的问题编号前出现特定关键字，还可以自动关闭问题。支持的关键字有：
   
 + fixes #xxx
 + fixed #xxx
@@ -71,7 +71,12 @@ Issue跟我们的开发任务紧密相连，通常一个issue会指派给某位�
 + close #xxx
 + closed #xxx
 
+![image](images/closed_issue.png)
+
 ##代码评审
+##Gist
+##github.io
+##git.io
       
 
 
